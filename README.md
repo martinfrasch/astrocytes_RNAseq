@@ -5,4 +5,6 @@ Description of the data, astrocytes ~ microglia gene comparisons, PCA plots and 
 
 If a subpage renders HTML code instead of content, please prepend the URL with "http://htmlpreview.github.io/?", reload and it will render correctly. Thanks!
 
+3D PCA html is best viewed downloaded in your browser. The online rendering seems to have issues.
+
 [![DOI](https://zenodo.org/badge/177515819.svg)](https://zenodo.org/badge/latestdoi/177515819)

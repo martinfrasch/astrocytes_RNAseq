@@ -1,6 +1,8 @@
 # astrocytes_RNAseq
-This is the companion repo for https://arxiv.org/abs/1812.06617
+This is the companion repo for [arXiv:1812.06617](https://arxiv.org/abs/1812.06617)
 
-Description of the data, astrocytes ~ microglia gene comparisons, PCA plots and Venn diagrams can be found here: http://htmlpreview.github.io/?https://github.com/martinfrasch/astrocytes_RNAseq/blob/master/description.html
+Description of the data, astrocytes ~ microglia gene comparisons, PCA plots and Venn diagrams can be found [here]( http://htmlpreview.github.io/?https://github.com/martinfrasch/astrocytes_RNAseq/blob/master/description.html)
 
 If a subpage renders HTML code instead of content, please prepend the URL with "http://htmlpreview.github.io/?", reload and it will render correctly. Thanks!
+
+[![DOI](https://zenodo.org/badge/177515819.svg)](https://zenodo.org/badge/latestdoi/177515819)

@@ -1,5 +1,7 @@
 # Astrocytes RNAseq
-This is the companion repo for [arXiv:1812.06617](https://arxiv.org/abs/1812.06617)
+This is the companion repo for [this paper](https://www.frontiersin.org/articles/10.3389/fimmu.2019.01063/full) OR as preprint
+[arXiv:1812.06617](https://arxiv.org/abs/1812.06617) 
+
 
 Description of the data, astrocytes ~ microglia gene comparisons, PCA plots and Venn diagrams can be found [here]( http://htmlpreview.github.io/?https://github.com/martinfrasch/astrocytes_RNAseq/blob/master/description.html)
 
